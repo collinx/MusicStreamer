@@ -1,4 +1,4 @@
-package com.sdsmdg.harjot.MusicDNA.imageLoader;
+package com.sdsmdg.harjot.MusicDNA.imageloader;
 
 /**
  * Created by Harjot on 06-Apr-16.
@@ -14,7 +14,6 @@ import android.graphics.Color;
 import android.media.MediaMetadataRetriever;
 import android.widget.ImageView;
 
-import com.sdsmdg.harjot.MusicDNA.HomeActivity;
 import com.sdsmdg.harjot.MusicDNA.R;
 
 import java.io.File;
